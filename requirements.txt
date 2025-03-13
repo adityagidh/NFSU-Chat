@@ -1,0 +1,9 @@
+flask
+flask_CORS
+json
+langchain
+langchain_chroma
+queue
+langchain_ollama
+langchain_text_splitters
+langchain_community
